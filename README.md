@@ -1,5 +1,6 @@
 # grocery-management-system
 Data structure related project ,(for detail go through readme)
+**PROVIDED CODE IS IN C++ LANGUAGE AND MAKEFILE IS USED
 
 Problem Statement and desription goes like this:
 
